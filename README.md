@@ -12,7 +12,7 @@
 <img src="Images/botA.jpg" width="640"/>
 
 #### B : 
-<img src="Images/botB.jpg" width="640"/>
+<img src="Images/botB.JPG" width="640"/>
 
 ---
 
