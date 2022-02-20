@@ -1,11 +1,12 @@
 # botAlive_RoboDog
 
-### Final Year Project
+### Final Year Project :
+
 - We are building a Robot Dog mimicing the Spot Robot from Boston Dynamics.
 
 ---
 
-## Guidelines
+### Guidelines :
 
 - Use the README.md as your bible for the history. 
 - Add all the minor/major contributions to the code diligently with every push. 
@@ -40,9 +41,23 @@
   ```
 
 ---
-
-### Change Logs
+### Folder Structure :
+.
+    ├── ...
+    ├── botAlive_RoboDog        # Repository
+    │   ├── Links	         # Contains some helpful links
+    │   ├── ResearchPapers      # Contains needed research papers
+    │   ├── LICENSE             # MIT License
+    │   └── README.md           # For Documenting
+    └── ...
+    
+---    
+### Change Logs :
 
 #### 0.0.1 (texts)
 - Added few helpful links.
 - Added few research papers for reading.
+
+#### 0.0.2 (texts)
+- Made some required changes in README
+- Added links in links.txt
