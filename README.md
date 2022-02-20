@@ -6,6 +6,16 @@
 
 ---
 
+### Images :
+
+#### A :
+<img src="Images/botA.jpg" width="640"/>
+
+#### B : 
+<img src="Images/botB.jpg" width="640"/>
+
+---
+
 ### Guidelines :
 
 - Use the README.md as your bible for the history. 
@@ -42,11 +52,12 @@
 
 ---
 ### Folder Structure :
-.
+    .
     ├── ...
     ├── botAlive_RoboDog        # Repository
     │   ├── Links	         # Contains some helpful links
     │   ├── ResearchPapers      # Contains needed research papers
+    │   ├── Images              # For keeping all the images   
     │   ├── LICENSE             # MIT License
     │   └── README.md           # For Documenting
     └── ...
@@ -61,3 +72,7 @@
 #### 0.0.2 (texts)
 - Made some required changes in README
 - Added links in links.txt
+
+#### 0.0.3 (texts)
+- Made some required changes in README
+- Added images to the repository
